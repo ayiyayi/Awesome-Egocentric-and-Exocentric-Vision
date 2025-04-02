@@ -51,7 +51,7 @@
 |[4diff: 3d-aware diffusion model for third-to-first viewpoint translation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03536.pdf)|ECCV|2024|[Github](https://klauscc.github.io/4diff)|
 |[Diffusing in someone else’s shoes: Robotic perspective taking with diffusion](https://ieeexplore.ieee.org/document/10769830)|Humanoids|2024|[Github](https://github.com/knowledgetechnologyuhh/robotic-perspective-taking-with-diffusion)|
 |[Put myself in your shoes: Lifting the egocentric perspective from exocentric videos](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05558.pdf)|ECCV|2024|-|
-|[Exocentric-to-EgocentricVideoGeneration](https://arxiv.org/abs/2503.09143)|2024|NeulIPS|[Github](https://github.com/showlab/Exo2Ego-V)
+|[Exocentric-to-EgocentricVideoGeneration](https://arxiv.org/abs/2503.09143)|NeulIPS|2024|[Github](https://github.com/showlab/Exo2Ego-V)
 
 #### Video Captioning
 
