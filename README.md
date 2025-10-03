@@ -14,7 +14,7 @@ This repo complements our survey and is continuously updated.
 
 ## 📖 Contents
 
-* [Papers](#papers)
+* [Papers](##papers)
 
   * [Egocentric for Exocentric](#egocentric-for-exocentric)
   * [Exocentric for Egocentric](#exocentric-for-egocentric)
@@ -28,7 +28,7 @@ This repo complements our survey and is continuously updated.
 ### 🔹 Egocentric for Exocentric
 
 <details>
-<summary>🎥 <b>Video Generation (click to expand)</b></summary>  
+<summary><b>Video Generation (click to expand)</b></summary>  
 
 | Title                                                                                                                                              | Venue | Year | Code |
 | :------------------------------------------------------------------------------------------------------------------------------------------------- | :---: | :--: | :--: |
@@ -37,77 +37,18 @@ This repo complements our survey and is continuously updated.
 
 </details>  
 
----
-
-### 🔹 Exocentric for Egocentric
 
 <details>
-<summary>📷 <b>Action Recognition (click to expand)</b></summary>  
-
-| Title | Venue | Year |              Code              |
-| :---- | :---: | :--: | :----------------------------: |
-| TBD   |  CVPR | 2023 | [Code](https://github.com/xxx) |
-
-</details>  
-
----
-
-### 🔹 Joint Learning
-
-<details>
-<summary>🔄 <b>Cross-View Representation Learning (click to expand)</b></summary>  
-
-| Title | Venue | Year | Code |
-| :---- | :---: | :--: | :--: |
-| TBD   |  ICCV | 2021 |   -  |
-
-</details>  
-
----
-
-## 📊 Datasets
-
-<details>
-<summary>📦 <b>Click to expand dataset list</b></summary>  
-
-* [Ego4D](https://ego4d-data.org/)
-* [EgoExo4D](https://egoexo4d-data.org/)
-* [LEMMA](https://lemma-data.org/)
-* …
-
-</details>  
-
----
-
-
-
-# Awesome-Egocentric-and-Exocentric-Vision
-## Contents
-- [Papers](#Papers)
-
-    - [Egocentric for Exocentric](#Egocentric-for-Exocentric)
-    - [Exocentric for Egocentric](#Exocentric-for-Egocentric)
-    - [Joint Learning](#Joint-Learning)
-- [Datasets](#Datasets)
-
-## Papers
-
-### Egocentric for Exocentric
-
-#### Video Generation
-
-|  Title  |   Venue  |   Year   |   Code   |
-|:--------|:--------:|:--------:|:--------:|
-|[Intention-driven Ego-to-Exo Video Generation](https://arxiv.org/abs/2403.09194) | arxiv | 2024 | - |
-|[Ego-to-Exo: Interfacing Third Person Visuals from Egocentric Views in Real-time for Improved ROV Teleoperation](https://arxiv.org/abs/2407.00848)|arxiv|2024|-|
-
-#### Action Understanding
+<summary><b>Action Understanding (click to expand)</b></summary>  
 
 |  Title  |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[From my view to yours: Egoaugmented learning in large vision language models <br> for understanding exocentric daily living activities](https://arxiv.org/abs/2501.05711)|arxiv|2025|[Github](https://github.com/dominickrei/EgoExo4ADL)|
 
-#### View Birdification
+</details>  
+
+<details>
+<summary><b>View Birdification (click to expand)</b></summary>  
 
 |  Title  |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -115,14 +56,21 @@ This repo complements our survey and is continuously updated.
 |[Viewbirdiformer: Learning to recover ground-plane crowd trajectories and ego-motion from a single ego-centric view](https://ieeexplore.ieee.org/document/9944870)|RAL|2022|-|
 |[Incrowdformer: On-ground pedestrian world model from egocentric views](https://arxiv.org/abs/2303.09534)|arxiv|2023|-|
 
-#### View Selection
+</details>  
+
+<details>
+<summary><b>View Selection (click to expand)</b></summary>  
+
 |  Title  |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[Camera selection for occlusion-less surgery recording via training with an egocentric camera](https://ieeexplore.ieee.org/document/9562527)|Access|2021|-|
 
-### Exocentric for Egocentric
+</details>  
 
-#### Video Generation
+### 🔹 Exocentric for Egocentric
+
+<details>
+<summary><b>Video Generation (click to expand)</b></summary>  
 
 |  Title  |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -135,14 +83,20 @@ This repo complements our survey and is continuously updated.
 |[Put myself in your shoes: Lifting the egocentric perspective from exocentric videos](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05558.pdf)|ECCV|2024|-|
 |[Exocentric-to-EgocentricVideoGeneration](https://arxiv.org/abs/2503.09143)|NeulIPS|2024|[Github](https://github.com/showlab/Exo2Ego-V)
 
-#### Video Captioning
+</details>  
+
+<details>
+<summary><b>Video Captioning (click to expand)</b></summary>  
 
 |  Title  |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[Exo2egodvc: Dense video captioning of egocentric procedural activities using web instructional videos](https://arxiv.org/abs/2311.16444)|WACV|2023|[Github](https://github.com/ut-vision/Exo2EgoDVC)|
 |[Retrieval-augmented egocentric video captioning](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Retrieval-Augmented_Egocentric_Video_Captioning_CVPR_2024_paper.pdf)|CVPR|2024|[Github](https://github.com/Jazzcharles/Egoinstructor/)|
+</details>  
 
-#### Action Understanding
+<details>
+<summary><b>Action Understanding (click to expand)</b></summary>  
+
 | Title   |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[Unsupervised and semi-supervised domain adaptation for action recognition from drones](https://ieeexplore.ieee.org/document/9093511)|WACV|2020|-|
@@ -157,8 +111,10 @@ This repo complements our survey and is continuously updated.
 |[Synchronization is all you need: Exocentric-to-egocentric transfer for temporal action segmentation <br> with unlabeled synchronized video pairs](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09116.pdf)|ECCV|2024|[Github](https://github.com/fpv-iplab/synchronization-is-all-you-need)|
 |[Unlocking exocentric video-language data for egocentric video representation learning](https://arxiv.org/abs/2408.03567)|arxiv|2024|-|
 
+</details> 
 
-#### Affordance Grounding
+<details>
+<summary><b>Affordance Grounding (click to expand)</b></summary>  
 
 | Title   |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -170,7 +126,11 @@ This repo complements our survey and is continuously updated.
 |[Intra: Interaction relationship-aware weakly supervised affordance grounding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08064.pdf)|ECCV|2024|-|
 |[Learning granularity-aware affordances from humanobject interaction for tool-based functional grasping in dexterous robotics](https://arxiv.org/abs/2407.00614)|arxiv|2024|[Github](https://github.com/Popeye-pxx/gaaf-dex)|
 
-#### Remote Drone Teleoperation
+</details> 
+
+
+<details>
+<summary><b>Remote Drone Teleoperation (click to expand)</b></summary>  
 
 | Title   |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -179,15 +139,23 @@ This repo complements our survey and is continuously updated.
 |[Starhopper: A touch interface for remote object-centric drone navigation](https://graphicsinterface.org/proceedings/gi2020/gi2020-32/)|Graphics Interface|2020|-|
 |[Birdviewar: Surroundings-aware remote drone piloting using an augmented thirdperson perspective](https://dl.acm.org/doi/full/10.1145/3544548.3580681)|CHI|2023|[Github](https://github.com/icd-tohoku/BirdViewAR_chi2023)|
 
-### Joint Learning
-#### Video Captioning
+</details> 
+
+
+### 🔹 Joint Learning
+<details>
+<summary><b>Video Captioning (click to expand)</b></summary>  
 
 | Title   |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[Fourth-Person Captioning: Describing Daily Events by Uni-supervised and Tri-regularized Training](https://ieeexplore.ieee.org/document/8616361)|SMC|2018|-|
 |[Lifelogging caption generation via fourth-person vision in a human–robot symbiotic environment](https://robomechjournal.springeropen.com/articles/10.1186/s40648-020-00181-2)|ROBOMECH|2020|-|
 
-#### Cross-View Retrieval
+</details> 
+
+<details>
+<summary><b>Cross-View Retrieval (click to expand)</b></summary>  
+
 | Title   |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[Egotransfer: Transferring motion across egocentric and exocentric domains using deep neural networks](https://arxiv.org/abs/1612.05836)|arxiv|2016|-|
@@ -196,7 +164,10 @@ This repo complements our survey and is continuously updated.
 |[First- and third-person video co-analysis by learning spatial-temporal joint attention](https://ieeexplore.ieee.org/document/9220850)|TPAMI|2020|-
 |[Objectrelator: Enabling cross-view object relation understanding in ego-centric and exo-centric videos](https://arxiv.org/html/2411.19083v1)|arxiv|2024|[Github](https://github.com/lovelyqian/ObjectRelator)
 
-#### 3D Camera Localization
+</details> 
+
+<details>
+<summary><b>3D Camera Localization (click to expand)</b></summary>  
 
 | Title   |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -204,8 +175,11 @@ This repo complements our survey and is continuously updated.
 |[From a bird’s eye view to see: Joint camera and subject registration without the camera calibration](https://ieeexplore.ieee.org/document/10657684)|CVPR|2024|[Github](https://github.com/zekunqian/bevsee)
 |[Yowo: You only walk once to jointly map an indoor scene and register ceiling-mounted cameras](https://ieeexplore.ieee.org/document/10663468)|TCSVT|2024|-
 
+</details> 
 
-#### Action Understanding
+
+<details>
+<summary><b>Action Understanding (click to expand)</b></summary>  
 
 | Title   |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -223,7 +197,10 @@ This repo complements our survey and is continuously updated.
 |[Next-generation surgical navigation: Marker-less multi-view 6dof pose estimation of surgical instruments](https://arxiv.org/abs/2305.03535)|arxiv|2023|[Github](https://github.com/jonashein/mvpsp)
 |[Tell, don’t show: Language guidance eases transfer across domains in images and videos](https://arxiv.org/abs/2403.05535)|ICML|2024|[Github](https://github.com/ViLab-UCSD/LaGTran_ICML2024)
 
-#### Egocentric Wearer Identification
+</details> 
+
+<details>
+<summary><b>Egocentric Wearer Identification (click to expand)</b></summary>  
 
 | Title   |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -236,7 +213,10 @@ This repo complements our survey and is continuously updated.
 |[Seeing the unseen: Predicting the first-person camera wearer’s location and pose in third-person scenes](https://ieeexplore.ieee.org/document/9607539)|ICCVW|2021|-
 |[Fusing personal and environmental cues for identification and segmentation of first-person camera wearers in third-person views](https://ieeexplore.ieee.org/abstract/document/10656137)|CVPR|2024|[Github](https://github.com/ziweizhao1993/PEN)
 
-#### Cross-View Human Tracking and Association
+</details> 
+
+<details>
+<summary><b>Cross-View Human Tracking and Association (click to expand)</b></summary>  
 
 | Title   |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -246,7 +226,11 @@ This repo complements our survey and is continuously updated.
 |[Multiple human association and tracking from egocentric and complementary top views](https://ieeexplore.ieee.org/document/9394804)|TPAMI|2021|[Github](https://github.com/RuizeHan/CVMHAT)
 |[Connecting the complementary-view videos: Joint camera identification and subject association](https://ieeexplore.ieee.org/document/9879989)|CVPR|2022|[Github](https://github.com/RuizeHan/DMHA)
 
-#### Robotic Manipulation
+</details> 
+
+
+<details>
+<summary><b>Robotic Manipulation (click to expand)</b></summary>  
 
 | Title   |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -258,12 +242,20 @@ This repo complements our survey and is continuously updated.
 |[Multi-View Masked World Models for Visual Robotic Manipulation](https://arxiv.org/abs/2302.02408)|arxiv|2023|[Github](https://github.com/younggyoseo/MV-MWM)
 |[Multi-view disentanglement for reinforcement learning with multiple cameras](https://arxiv.org/abs/2404.14064)|arxiv|2024|[Github](https://github.com/uoe-agents/MVD)
 
-#### Remote Drone Teleoperation
+</details> 
+
+<details>
+<summary><b>Remote Drone Teleoperation (click to expand)</b></summary>  
+
 | Title   |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 |[Spatial assisted human-drone collaborative navigation and interaction through immersive mixed reality](https://ieeexplore.ieee.org/abstract/document/10611351)|ICRA|2024|[Github](https://github.com/arplaboratory/mri_ros_public)
 
-## Datasets
+</details> 
+
+
+
+## 📊 Datasets
 ### Action Understanding
 
 | Dataset |   Year   |   Paper  |   Project| Code|
