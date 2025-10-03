@@ -1,3 +1,85 @@
+---
+
+# 🌟 Awesome Egocentric-and-Exocentric Vision
+
+[![Survey Paper](https://img.shields.io/badge/Survey-Paper-blue)](https://arxiv.org/abs/2506.06253)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--10--03-brightgreen)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange)
+![Stars](https://img.shields.io/github/stars/ayiyayi/Awesome-Egocentric-and-Exocentric-Vision?style=social)
+
+A curated list of **papers and datasets** on **Egocentric (first-person) and Exocentric (third-person) Vision**.
+This repo complements our survey and is continuously updated.
+
+---
+
+## 📖 Contents
+
+* [Papers](#papers)
+
+  * [Egocentric for Exocentric](#egocentric-for-exocentric)
+  * [Exocentric for Egocentric](#exocentric-for-egocentric)
+  * [Joint Learning](#joint-learning)
+* [Datasets](#datasets)
+
+---
+
+## 📑 Papers
+
+### 🔹 Egocentric for Exocentric
+
+<details>
+<summary>🎥 <b>Video Generation (click to expand)</b></summary>  
+
+| Title                                                                                                                                              | Venue | Year | Code |
+| :------------------------------------------------------------------------------------------------------------------------------------------------- | :---: | :--: | :--: |
+| [Intention-driven Ego-to-Exo Video Generation](https://arxiv.org/abs/2403.09194)                                                                   | arXiv | 2024 |   -  |
+| [Ego-to-Exo: Interfacing Third Person Visuals from Egocentric Views in Real-time for Improved ROV Teleoperation](https://arxiv.org/abs/2407.00848) | arXiv | 2024 |   -  |
+
+</details>  
+
+---
+
+### 🔹 Exocentric for Egocentric
+
+<details>
+<summary>📷 <b>Action Recognition (click to expand)</b></summary>  
+
+| Title | Venue | Year |              Code              |
+| :---- | :---: | :--: | :----------------------------: |
+| TBD   |  CVPR | 2023 | [Code](https://github.com/xxx) |
+
+</details>  
+
+---
+
+### 🔹 Joint Learning
+
+<details>
+<summary>🔄 <b>Cross-View Representation Learning (click to expand)</b></summary>  
+
+| Title | Venue | Year | Code |
+| :---- | :---: | :--: | :--: |
+| TBD   |  ICCV | 2021 |   -  |
+
+</details>  
+
+---
+
+## 📊 Datasets
+
+<details>
+<summary>📦 <b>Click to expand dataset list</b></summary>  
+
+* [Ego4D](https://ego4d-data.org/)
+* [EgoExo4D](https://egoexo4d-data.org/)
+* [LEMMA](https://lemma-data.org/)
+* …
+
+</details>  
+
+---
+
+
 
 # Awesome-Egocentric-and-Exocentric-Vision
 ## Contents
