@@ -159,6 +159,8 @@ This repo complements our survey and is continuously updated.
 |[Enhancing egocentric 3d pose estimation with third person views](https://arxiv.org/abs/2201.02017)|PR|2023|[Github](https://github.com/nudlesoup/First2Third-Pose)
 |[Next-generation surgical navigation: Marker-less multi-view 6dof pose estimation of surgical instruments](https://arxiv.org/abs/2305.03535)|arxiv|2023|[Github](https://github.com/jonashein/mvpsp)
 |[Tell, don’t show: Language guidance eases transfer across domains in images and videos](https://arxiv.org/abs/2403.05535)|ICML|2024|[Github](https://github.com/ViLab-UCSD/LaGTran_ICML2024)
+|[Viewpoint Rosetta Stone: Unlocking Unpaired Ego-Exo Videos for View-invariant Representation Learning](https://openaccess.thecvf.com/content/CVPR2025/papers/Luo_Viewpoint_Rosetta_Stone_Unlocking_Unpaired_Ego-Exo_Videos_for_View-invariant_Representation_CVPR_2025_paper.pdf)|CVPR|2025|[Github](https://github.com/luomi777/ViewpointRosetta)
+|[Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations](https://openaccess.thecvf.com/content/CVPR2025/papers/Park_Bootstrap_Your_Own_Views_Masked_Ego-Exo_Modeling_for_Fine-grained_View-invariant_CVPR_2025_paper.pdf)|CVPR|2025|[Github](https://github.com/park-jungin/byov)
 
 #### ✨  Egocentric Wearer Identification
 
