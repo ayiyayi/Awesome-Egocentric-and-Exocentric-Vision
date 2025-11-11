@@ -69,6 +69,7 @@ This repo complements our survey and is continuously updated.
 |[Diffusing in someone else’s shoes: Robotic perspective taking with diffusion](https://ieeexplore.ieee.org/document/10769830)|Humanoids|2024|[Github](https://github.com/knowledgetechnologyuhh/robotic-perspective-taking-with-diffusion)|
 |[Put myself in your shoes: Lifting the egocentric perspective from exocentric videos](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05558.pdf)|ECCV|2024|-|
 |[Exocentric-to-EgocentricVideoGeneration](https://arxiv.org/abs/2503.09143)|NeulIPS|2024|[Github](https://github.com/showlab/Exo2Ego-V)
+|[EgoExo-Gen: Ego-centric Video Prediction by Watching Exo-centric Videos](https://arxiv.org/abs/2504.11732)|ICLR|2025|-
 
 #### ✨  Video Captioning
 
