@@ -3,7 +3,7 @@
 # 🌟 Awesome Egocentric-and-Exocentric Vision
 
 [![Survey Paper](https://img.shields.io/badge/Survey-Paper-blue)](https://arxiv.org/abs/2506.06253)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--11-brightgreen)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--11--14-brightgreen)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange)
 ![Stars](https://img.shields.io/github/stars/ayiyayi/Awesome-Egocentric-and-Exocentric-Vision?style=social)
 
