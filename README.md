@@ -92,7 +92,7 @@ This repo complements our survey and is continuously updated.
 |[Ex2eg-mae: A framework for adaptation of exocentric video masked autoencoders for egocentric social role understanding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10301.pdf)|ECCV|2024|-|
 |[Synchronization is all you need: Exocentric-to-egocentric transfer for temporal action segmentation <br> with unlabeled synchronized video pairs](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09116.pdf)|ECCV|2024|[Github](https://github.com/fpv-iplab/synchronization-is-all-you-need)|
 |[Unlocking exocentric video-language data for egocentric video representation learning](https://arxiv.org/abs/2408.03567)|arxiv|2024|-|
-
+|[EgoPrivacy: What Your First-Person Camera Says About You?](https://arxiv.org/abs/2506.12258)|arxiv|2025|[Github](https://github.com/williamium3000/ego-privacy)
 
 #### ✨  Affordance Grounding
 
@@ -124,6 +124,7 @@ This repo complements our survey and is continuously updated.
 |[Fourth-Person Captioning: Describing Daily Events by Uni-supervised and Tri-regularized Training](https://ieeexplore.ieee.org/document/8616361)|SMC|2018|-|
 |[Lifelogging caption generation via fourth-person vision in a human–robot symbiotic environment](https://robomechjournal.springeropen.com/articles/10.1186/s40648-020-00181-2)|ROBOMECH|2020|-|
 
+
 #### ✨  Cross-View Retrieval
 | Title   |   Venue  |   Year   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
@@ -132,6 +133,7 @@ This repo complements our survey and is continuously updated.
 |[From Third Person to First Person: Dataset and Baselines for Synthesis and Retrieval](https://arxiv.org/abs/1812.00104)|CVPRW|2019|[Github](https://github.com/M-Elfeki/ThirdToFirst)
 |[First- and third-person video co-analysis by learning spatial-temporal joint attention](https://ieeexplore.ieee.org/document/9220850)|TPAMI|2020|-
 |[Objectrelator: Enabling cross-view object relation understanding in ego-centric and exo-centric videos](https://arxiv.org/html/2411.19083v1)|arxiv|2024|[Github](https://github.com/lovelyqian/ObjectRelator)
+|[Sound Bridge: Associating Egocentric and Exocentric Videos via Audio Cues](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Sound_Bridge_Associating_Egocentric_and_Exocentric_Videos_via_Audio_Cues_CVPR_2025_paper.html)|CVPR|2025|[Github](https://github.com/shhuangcoder/SoundBridge)
 
 #### ✨  3D Camera Localization
 
@@ -161,6 +163,8 @@ This repo complements our survey and is continuously updated.
 |[Tell, don’t show: Language guidance eases transfer across domains in images and videos](https://arxiv.org/abs/2403.05535)|ICML|2024|[Github](https://github.com/ViLab-UCSD/LaGTran_ICML2024)
 |[Viewpoint Rosetta Stone: Unlocking Unpaired Ego-Exo Videos for View-invariant Representation Learning](https://openaccess.thecvf.com/content/CVPR2025/papers/Luo_Viewpoint_Rosetta_Stone_Unlocking_Unpaired_Ego-Exo_Videos_for_View-invariant_Representation_CVPR_2025_paper.pdf)|CVPR|2025|[Github](https://github.com/luomi777/ViewpointRosetta)
 |[Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations](https://openaccess.thecvf.com/content/CVPR2025/papers/Park_Bootstrap_Your_Own_Views_Masked_Ego-Exo_Modeling_for_Fine-grained_View-invariant_CVPR_2025_paper.pdf)|CVPR|2025|[Github](https://github.com/park-jungin/byov)
+|[Unsupervised Ego- and Exo-centric Dense Procedural Activity Captioning via Gaze Consensus Adaptation](https://dl.acm.org/doi/abs/10.1145/3746027.3755167)|ACM MM|2025|-|
+
 
 #### ✨  Egocentric Wearer Identification
 
@@ -231,6 +235,8 @@ This repo complements our survey and is continuously updated.
 |Ego-Exo4D|2024|[Ego-exo4d: Understanding skilled human activity from first-and third-person perspectives](https://ieeexplore.ieee.org/document/10658224)|[Project](https://ego-exo4d-data.org/)|[Github](https://github.com/EGO4D)
 |EgoExoLearn|2024|[Egoexolearn: A dataset for bridging asynchronous ego-and exo-centric view of procedural activities in real world](https://ieeexplore.ieee.org/document/10657292)|-|[Github](https://github.com/OpenGVLab/EgoExoLearn)
 |EgoExo-Fitness|2024|[Egoexo-fitness: Towards egocentric and exocentric full-body action understanding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3057_ECCV_2024_paper.php)|-|[Github](https://github.com/iSEE-Laboratory/EgoExo-Fitness)
+|EgoExOR|2025|[EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding](https://arxiv.org/abs/2505.24287)|-|[Github](https://github.com/ardamamur/EgoExOR)
+|EPFL-Smart-Kitchen-30|2025|[EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models](https://arxiv.org/abs/2506.01608v2)|-|[Github](https://github.com/amathislab/EPFL-Smart-Kitchen)
 
 ### Driving
 
